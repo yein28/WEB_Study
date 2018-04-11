@@ -78,5 +78,8 @@ W3C에서는 HTML 작성시 2 space of indentation을 추천
   </table>
   ````
 
-  ​
+- 테이블이 커지면 관리하기 힘드므로 테이블을 head, body, foot으로 나눠서 관리
 
+  - `<thead>` : th 태그를 감쌈 
+  - `<tbody>` 
+  - `<tfoot> ` : row의 합이라던가 결과를 표현하는 행
