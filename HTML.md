@@ -10,22 +10,21 @@ HTML Hierachy 중요, 자식 엘리먼트가 부모 엘리먼트의 행동이나
 
 
 
-**태그 종류**
+**태그 종류(꺾쇠 생략)**
 
-- <body> : 웹페이지에 실제로 나타남
-- <head>
+- body : 웹페이지에 실제로 나타남
+- head  : 
 
 
-- <div>  : 페이지를 구분
+- div : 페이지를 구분
 
 - HTML에서  텍스트를 보여주고 싶은 경우 
 
-  - <p> : block of plain text
-  - <span> : 짧은 txt나 다른 HTML을 포함, 똑같은 줄에 있는 컨텐츠를 구분하고 싶은 경우	span은 div와 다르게 줄 구분을 시키지 않음
+  - p : block of plain text
+  - span : 짧은 txt나 다른 HTML을 포함, 똑같은 줄에 있는 컨텐츠를 구분하고 싶은 경우	span은 div와 다르게 줄 구분을 시키지 않음
 
-- <br : line break.
+- br : line break.
 
-- <em>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+- em :                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
 
   ​
-   
